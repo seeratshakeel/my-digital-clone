@@ -183,4 +183,8 @@ Public Space
 
 
 https://huggingface.co/spaces/seeratsh/my-digital-clone
+## Live Deployed Application
 
+**Public App URL:** https://seeratshakeel-my-digital-clone-streamlit-app-jpruru.streamlit.app/
+
+The application is deployed using Streamlit Community Cloud.
