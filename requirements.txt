@@ -1,0 +1,6 @@
+gradio
+huggingface_hub
+rank-bm25
+sentence-transformers
+numpy
+groq
